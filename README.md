@@ -16,6 +16,8 @@ css
 javascript
 bootstrap
 
+![alt text](https://raw.githubusercontent.com/kellyhaskins00/All-the-News-That-s-Fit-to-Scrape/master/images/main.JPG)
+
 How to Use:
 
 Click on the "Peel New Article" button at the upper right hand corner to scrape news articles from The Onion.
@@ -26,4 +28,4 @@ Click on "Saved Articles" at the top to view the list of saved articles.
 
 Click on the "Remove" button to delete the article
 
-Please Click on this link to Check the out the App on Heroku!
+Please Click on this link https://nameless-retreat-53303.herokuapp.com/ to Check the out the App on Heroku!
